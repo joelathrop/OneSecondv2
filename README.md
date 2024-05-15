@@ -1,5 +1,7 @@
 # Web Playback SDK Javascript Tutorial
 
+This is mine hi
+
 This repository contains the source code for the [Web Playback SDK Guide](https://developer.spotify.com/documentation/web-playback-sdk/guide/).
 
 ## Using your own credentials
